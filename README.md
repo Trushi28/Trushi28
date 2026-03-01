@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center">
+<div><br/>
 
 ```rust
 impl Trushi {
@@ -190,7 +190,7 @@ results = {
 
 *Top ~4% globally*
 
-[![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Trushi28)
+[![LeetCode](https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/KLSO6YHUdn/)
 
 </td>
 <td align="center" width="220px">
@@ -202,7 +202,7 @@ results = {
 
 *4★ Rated*
 
-[![CodeChef](https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/Trushi28)
+[![CodeChef](https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/route_vivid_14)
 
 </td>
 </tr>
