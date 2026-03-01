@@ -45,7 +45,7 @@ impl Trushi {
 
 ### ◈ Systems & Low-Level
 
-[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![x86-64 ASM](https://img.shields.io/badge/x86--64_Assembly-1a1a2e?style=for-the-badge&logo=assemblyscript&logoColor=a78bfa)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#)
+[![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![x86-64 ASM](https://img.shields.io/badge/x86--64_Assembly-1a1a2e?style=for-the-badge&logo=assemblyscript&logoColor=a78bfa) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **OS dev · Compiler design · Memory allocators · Schedulers · Bare metal**
 
@@ -53,7 +53,7 @@ impl Trushi {
 
 ### ◈ Machine Learning & AI
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **BERT · BiLSTM · CNN · NLP · Sentiment Analysis · Transformers**
 
@@ -61,14 +61,12 @@ impl Trushi {
 
 ### ◈ Web & Fullstack
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
 <br/>
 
 ### ◈ Databases & Cloud
 
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#) [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://claude.ai/chat/1373fb0e-226c-43ba-9664-f1c1aab85fdd#)
-
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
 ----------
@@ -128,21 +126,69 @@ results = {
 
 ----------
 
-## ⚡ Something Big is Coming
+## ⚡ QISC — Quantum-Inspired Superposition Compiler
+
+> _"The compiler that learns, adapts, and evolves with your code."_ _"Optimize for observed reality, not theoretical possibilities."_
+
+Traditional compilers translate source → binary. One way. Done. **QISC rewrites the rules.** It introduces the **Living IR** — an Intermediate Representation that _mutates_, _learns from runtime profiles_, and _collapses_ into the single optimal binary for your actual workload. Think **Schrödinger's Compiler**: the optimal binary exists in superposition until observed through profiling.
 
 ```
- ┌──────────────────────────────────────────────────────────┐
- │                                                          │
- │   [ CLASSIFIED — REPOSITORY LOADING ]                    │
- │                                                          │
- │   A new project that makes the compilers look small.     │
- │   Dropping soon.  Watch this space.                      │
- │                                                          │
- │   Status  ░░░░░░░░░░░░░░░░░░░░░░  pushing to GitHub...  │
- │                                                          │
- └──────────────────────────────────────────────────────────┘
+Source Code --> Living IR  <-> Profile Data --> Evolved IR --> Optimal Binary
+                   |               ^
+                   └───────────────┘
+                      feedback loop
 
 ```
+
+**The Evolution Cycle**
+
+```
+Compilation 1:  Baseline  ──  100% IR change  ──  Collect profile
+Compilation 2:  ████████  ──   80% IR change  ──  2x improvement
+Compilation 3:  ███████   ──   30% IR change  ──  1.5x additional
+Compilation 4:  ██        ──   10% IR change  ──  1.1x additional
+Compilation 5:  ▏         ──    0% IR change  ──  CONVERGED ✓
+
+```
+
+**Standout features:**
+
+-   🧬 **Living IR** — self-aware, adaptive, predictive, provably convergent
+-   🎭 **Compiler Personality System** — `friendly`, `snarky`, `sage`, `cryptic` modes with pattern-aware roasts
+-   🏆 **Achievement System** — _"Dragon Slayer"_ (O(n²) → O(n log n)), _"Cache Whisperer"_ (>99% hit rate)
+-   🔗 **First-class pipelines** (`>>`) with lazy eval, stage fusion, and auto-parallelization
+-   🧠 **Pragma intelligence** — `#pragma context:server/cli/embedded`, `optimize:latency/throughput/memory`
+-   ✋ **Novel error handling** — `canfail` / `try` / `catch` / `fail` / `!` propagation
+-   🔮 **Pattern matching** — `when` / `is` with value, range, and wildcard matching
+-   🛡️ **Type system** — `auto` inference, `maybe` optionals, `const`, `typeof`, `sizeof`, `extend` blocks
+
+```qisc
+#pragma context:cli
+#pragma compiler_personality:snarky
+#pragma optimize:latency
+
+proc fibonacci(int n) gives int {
+    if n <= 1 { give n; }
+    auto a = 0; auto b = 1;
+    for int i = 2; i <= n; i++ {
+        auto result = a + b;
+        a = b; b = result;
+        give result;
+    }
+}
+
+// The compiler, upon seeing your O(n²) loop:
+// "O(n²)? In 2026? Really?"
+
+```
+
+<div align="center">
+
+![C11](https://img.shields.io/badge/Written_In-C11-00599C?style=for-the-badge&logo=c&logoColor=white) ![LLVM](https://img.shields.io/badge/Backend-LLVM_21-262D3A?style=for-the-badge&logo=llvm&logoColor=white) ![Version](https://img.shields.io/badge/Version-0.1.0-a78bfa?style=for-the-badge) ![Status](https://img.shields.io/badge/Status-Experimental-ff6347?style=for-the-badge)
+
+_"Your code has reached its final form." — QISC, upon convergence_
+
+</div>
 
 ----------
 
