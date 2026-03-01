@@ -194,7 +194,7 @@ _4★ Rated_
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-trushi--os-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-os-nu.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/trushibethu) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trushibethu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-trushi--os-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-os-nu.vercel.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trushi-bethu-879984335/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trushibethu@gmail.com)
 
 <br/>
 
