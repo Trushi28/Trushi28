@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### 👋 Hi there!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=Building+bare-metal+OSes+in+Rust+%F0%9F%A6%80;97.5%25+accuracy+BERT+hybrid+pipeline+%F0%9F%A7%A0;LeetCode+1993+%E2%80%94+Top+4%25+globally+%F0%9F%94%A5;C/C+++is+my+love+language+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=680&lines=Building+bare-metal+OSes+in+Rust+%F0%9F%A6%80;97.5%25+accuracy+BERT+hybrid+pipeline+%F0%9F%A7%A0;LeetCode+1993+%E2%80%94+Top+2%25+globally+%F0%9F%94%A5;C%2FC%2B%2B+is+my+love+language+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 </div> <br/>
 
