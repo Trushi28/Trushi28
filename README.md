@@ -198,7 +198,7 @@ _"Your code has reached its final form." — QISC, upon convergence_
 
 **🟨 LeetCode**
 
-# `1993`
+# `2071`
 
 _Top ~2% globally_
 
@@ -208,7 +208,7 @@ _Top ~2% globally_
 
 **🟦 CodeChef**
 
-# `1641`
+# `1642`
 
 _3★ Rated_
 
