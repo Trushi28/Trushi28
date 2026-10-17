@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 156" width="440" height="156" role="img" aria-label="NOVA BLAST: 9 modes. 0 audio files. every laser and note is synthesized at boot.">
+<style>.m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.led{animation:led 2.4s infinite steps(1,end)}
+.led.b{animation-duration:.9s}
+.sw{animation:sw 5.5s linear infinite}
+.f{animation:fl 2s infinite steps(1,end)}
+@keyframes led{0%{opacity:1}70%{opacity:.25}85%{opacity:1}}
+@keyframes sw{0%{transform:translateY(-4px)}100%{transform:translateY(160px)}}
+@keyframes fl{0%{opacity:1}35%{opacity:0}55%{opacity:1}80%{opacity:0}90%{opacity:1}}
+</style>
+<defs><clipPath id="c"><path d="M0,0 H410 L440,30 V156 H0 Z"/></clipPath></defs>
+<path d="M0,0 H410 L440,30 V156 H0 Z" fill="#0d1014"/>
+<g clip-path="url(#c)">
+<path d="M0,0 H410 L440,30 H0 Z" fill="#151a20"/>
+<rect class="sw" x="0" y="0" width="440" height="3" fill="#ffffff" opacity=".05"/>
+</g>
+<path d="M241,155.5 H.5 V.5 H410 L439.5,30 V155.5 H228" fill="none" stroke="#aab4c0" stroke-width="1"/>
+<text class="m" x="18" y="20" font-size="14" font-weight="800" fill="#e6edf3" letter-spacing="2">NOVA BLAST</text>
+<text class="m" x="414" y="20" font-size="11" text-anchor="end" fill="#7d8896">space shooter · C++17</text>
+<text class="m" x="18" y="62" font-size="13" fill="#c3ccd6">9 modes. 0 audio files.</text><text class="m" x="18" y="83" font-size="13" fill="#c3ccd6">every laser and note is synthesized at boot.</text>
+<text class="m" x="18" y="112" font-size="11" fill="#5d6875">raylib · adaptive music · battle royale</text>
+<rect x="18" y="122" width="404" height="1" fill="#1b2128"/>
+<circle class="led" cx="24" cy="138" r="4" fill="#4ade80"/>
+<text class="m" x="36" y="142" font-size="11" fill="#4ade80" letter-spacing="2">SHIPPED</text>
+<rect class="f" x="419" y="144" width="5" height="5" fill="#aab4c0" style="animation-duration:2.84s;animation-delay:2.41s"/><rect class="f" x="412" y="137" width="5" height="5" fill="#aab4c0" style="animation-duration:1.32s;animation-delay:0.13s"/><rect class="f" x="412" y="144" width="5" height="5" fill="#aab4c0" style="animation-duration:1.32s;animation-delay:2.12s"/><rect class="f" x="419" y="137" width="5" height="5" fill="#ff3b5c" style="animation-duration:3.09s;animation-delay:2.17s"/><rect class="f" x="412" y="144" width="5" height="5" fill="#22d3ee" style="animation-duration:1.61s;animation-delay:0.74s"/><rect class="f" x="419" y="137" width="5" height="5" fill="#ff3b5c" style="animation-duration:1.69s;animation-delay:1.09s"/><rect class="f" x="398" y="130" width="5" height="5" fill="#ff3b5c" style="animation-duration:1.76s;animation-delay:0.47s"/>
+</svg>
