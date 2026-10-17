@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 288 64" width="288" height="64" role="img" aria-label="LINKEDIN: in/trushi-bethu">
+<style>.m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}}.f{animation:fl 2s infinite steps(1,end)}@keyframes fl{0%{opacity:1}35%{opacity:0}55%{opacity:1}80%{opacity:0}90%{opacity:1}}.arr{animation:ar 3s infinite steps(1,end)}@keyframes ar{0%,80%{transform:translateX(0)}85%{transform:translateX(4px)}90%{transform:translateX(-2px)}100%{transform:translateX(0)}}</style>
+<path d="M0,0 H288 V44 L268,64 H0 Z" fill="#0d1014"/>
+<path d="M198,.5 H287.5 V44 L268,63.5 H.5 V.5 H186" fill="none" stroke="#aab4c0" stroke-width="1"/>
+<rect class="f" x="0" y="0" width="4" height="64" fill="#22d3ee" style="animation-duration:3.1s"/>
+<text class="m" x="22" y="28" font-size="14" font-weight="800" letter-spacing="3" fill="#e6edf3">LINKEDIN</text>
+<text class="m" x="22" y="48" font-size="11" fill="#7d8896">in/trushi-bethu</text>
+<text class="m arr" x="248" y="38" font-size="20" fill="#aab4c0">→</text>
+<rect class="f" x="253" y="56" width="5" height="5" fill="#aab4c0" style="animation-duration:3.08s;animation-delay:1.1s"/><rect class="f" x="253" y="56" width="5" height="5" fill="#ff3b5c" style="animation-duration:1.85s;animation-delay:2.27s"/><rect class="f" x="253" y="56" width="5" height="5" fill="#ff3b5c" style="animation-duration:1.77s;animation-delay:0.37s"/>
+</svg>

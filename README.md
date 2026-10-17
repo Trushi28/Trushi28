@@ -55,20 +55,28 @@ everything below is also accurate. it is wearing a ski mask.
 6. every rule above is negotiable except 4
 ```
 
-<img src="assets/d-pile.svg" alt="03 the pile" width="100%">
+<img src="assets/d-issues.svg" alt="03 known issues" width="100%">
 
-```
-low level    Rust · C · C++ · x86-64 asm · schedulers · allocators · filesystems
-ml           PyTorch · BERT+CNN+BiLSTM sentiment engine, 97.5% on test
-web          TypeScript · React · Next.js · Node · Three.js
-data         Postgres · Supabase · Docker · Azure
-```
+<img src="assets/issues.svg" alt="Known issues: rewrites the dependency instead of installing it, treats worked on the first try as a bug report, hides jokes in compiled assembly, has never shipped an audio file, sleep not found, one redacted." width="100%">
 
-leetcode **2071** · codechef **1642** (3★)
-final year B.Tech CS, CMR Engineering College, Hyderabad
+<sub>every issue above is working as intended. the maintainer is also the issue.</sub>
 
-<img src="assets/d-reach.svg" alt="04 reach me" width="100%">
+<img src="assets/d-loadout.svg" alt="04 loadout" width="100%">
 
-[portfolio](https://portfolio-os-nu.vercel.app/) · [linkedin](https://www.linkedin.com/in/trushi-bethu-879984335/) · [trushibethu@gmail.com](mailto:trushibethu@gmail.com)
+<img src="assets/loadout.svg" alt="Loadout. Low level: Rust, C, C++, x86-64 assembly. Machine learning: PyTorch, BERT, CNN, BiLSTM. Web: TypeScript, React, Next.js, Node, Three.js. Data and ops: Postgres, Supabase, Docker, Azure." width="100%">
+
+<img src="assets/tiles.svg" alt="LeetCode 2071, top 2 percent globally. CodeChef 1642, 3 star. Final year B.Tech CS at CMR Engineering College, Hyderabad." width="100%">
+
+<img src="assets/d-reach.svg" alt="05 complaint desk" width="100%">
+
+<div align="center">
+
+<a href="https://portfolio-os-nu.vercel.app/"><img src="assets/btn-portfolio.svg" alt="Portfolio: portfolio-os-nu.vercel.app" width="32%"></a>
+<a href="https://www.linkedin.com/in/trushi-bethu-879984335/"><img src="assets/btn-linkedin.svg" alt="LinkedIn: trushi-bethu" width="32%"></a>
+<a href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=trushibethu@gmail.com&amp;su=complaint%20%23007"><img src="assets/btn-email.svg" alt="Email: trushibethu@gmail.com" width="32%"></a>
+
+</div>
+
+<sub>all complaints are read. replies take a few commits.<br>if the button fights you: trushibethu@gmail.com</sub>
 
 <img src="assets/footer.svg" alt="p.s. I already placed lava next to your bed." width="100%">

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 196" width="900" height="196" role="img" aria-label="Loadout. Low level: Rust, C, C++, x86-64 assembly. Machine learning: PyTorch, BERT, CNN, BiLSTM. Web: TypeScript, React, Next.js, Node, Three.js. Data and ops: Postgres, Supabase, Docker, Azure.">
+<style>.m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}@media (prefers-reduced-motion:reduce){*{animation:none!important}}.f{animation:fl 2s infinite steps(1,end)}@keyframes fl{0%{opacity:1}35%{opacity:0}55%{opacity:1}80%{opacity:0}90%{opacity:1}}</style>
+<g transform="translate(0,0)">
+<path d="M0,0 H420 L440,20 V88 H0 Z" fill="#0d1014" stroke="#2a3038"/>
+<rect x="0" y="0" width="3" height="88" fill="#aab4c0"/>
+<text class="m" x="18" y="24" font-size="10" letter-spacing="3" fill="#5d6875">LOW LEVEL</text>
+<text class="m" x="18" y="52" font-size="14" font-weight="700" fill="#e6edf3">Rust · C · C++ · x86-64 asm</text>
+<text class="m" x="18" y="74" font-size="11" fill="#7d8896">schedulers · allocators · filesystems</text>
+<circle class="f" cx="400" cy="40" r="3" fill="#4ade80" style="animation-duration:2.6s"/>
+</g><g transform="translate(460,0)">
+<path d="M0,0 H420 L440,20 V88 H0 Z" fill="#0d1014" stroke="#2a3038"/>
+<rect x="0" y="0" width="3" height="88" fill="#aab4c0"/>
+<text class="m" x="18" y="24" font-size="10" letter-spacing="3" fill="#5d6875">MACHINE LEARNING</text>
+<text class="m" x="18" y="52" font-size="14" font-weight="700" fill="#e6edf3">PyTorch · BERT · CNN · BiLSTM</text>
+<text class="m" x="18" y="74" font-size="11" fill="#7d8896">97.5% test accuracy on the sentiment engine</text>
+<circle class="f" cx="400" cy="40" r="3" fill="#4ade80" style="animation-duration:2.6s"/>
+</g><g transform="translate(0,108)">
+<path d="M0,0 H420 L440,20 V88 H0 Z" fill="#0d1014" stroke="#2a3038"/>
+<rect x="0" y="0" width="3" height="88" fill="#aab4c0"/>
+<text class="m" x="18" y="24" font-size="10" letter-spacing="3" fill="#5d6875">WEB</text>
+<text class="m" x="18" y="52" font-size="14" font-weight="700" fill="#e6edf3">TypeScript · React · Next.js · Node · Three.js</text>
+<text class="m" x="18" y="74" font-size="11" fill="#7d8896">the part with buttons</text>
+<circle class="f" cx="400" cy="40" r="3" fill="#22d3ee" style="animation-duration:2.6s"/>
+</g><g transform="translate(460,108)">
+<path d="M0,0 H420 L440,20 V88 H0 Z" fill="#0d1014" stroke="#2a3038"/>
+<rect x="0" y="0" width="3" height="88" fill="#aab4c0"/>
+<text class="m" x="18" y="24" font-size="10" letter-spacing="3" fill="#5d6875">DATA + OPS</text>
+<text class="m" x="18" y="52" font-size="14" font-weight="700" fill="#e6edf3">Postgres · Supabase · Docker · Azure</text>
+<text class="m" x="18" y="74" font-size="11" fill="#7d8896">where the bytes live</text>
+<circle class="f" cx="400" cy="40" r="3" fill="#fbbf24" style="animation-duration:2.6s"/>
+</g>
+<rect class="f" x="881" y="183" width="5" height="5" fill="#aab4c0" style="animation-duration:1.26s;animation-delay:1.38s"/><rect class="f" x="874" y="183" width="5" height="5" fill="#22d3ee" style="animation-duration:1.5s;animation-delay:0.18s"/><rect class="f" x="881" y="183" width="5" height="5" fill="#ff3b5c" style="animation-duration:1.22s;animation-delay:2.0s"/><rect class="f" x="881" y="183" width="5" height="5" fill="#ff3b5c" style="animation-duration:1.21s;animation-delay:1.15s"/><rect class="f" x="888" y="190" width="5" height="5" fill="#aab4c0" style="animation-duration:1.98s;animation-delay:1.94s"/>
+</svg>
